@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /dashboard/
 
-Sitemap: https://upuccofficial.com/sitemap.xml
+Sitemap: https://upucc.or.id/sitemap.xml
