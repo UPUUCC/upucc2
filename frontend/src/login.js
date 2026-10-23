@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const formTitle = document.getElementById('formTitle');
     const backFromForm = document.getElementById('backFromForm');
     
-    const TURNSTILE_SITEKEY = '0x4AAAAAAFg_stMRBtiOCFUA';
+    const TURNSTILE_SITEKEY = '0x4AAAAAAFg9Ftchkxaj4jRc';
     let turnstileWidgetId = null;
 
     function renderOrResetTurnstile() {
